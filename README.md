@@ -1,4 +1,5 @@
-<img src="https://github.com/ntkathole/hello-github-actions/workflows/CI/badge.svg" />
+<img src="https://github.com/ntkathole/hello-github-actions/workflows/CI/badge.svg" /> <img src=https://github.com/ntkathole/hello-github-actions/workflows/PythonPackage/badge.svg />
+
 
 ## Welcome to "Hello World" with GitHub Actions
 
