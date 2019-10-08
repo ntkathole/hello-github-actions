@@ -7,8 +7,6 @@ jobs:
   build:
  
     runs-on: ubuntu-latest
- 
     steps:
-    - uses: actions/checkout@v1
-    - name: Build the Docker image
-      run: echo "hello"
+      - name: My first step
+        uses: docker://alpine:3.8
